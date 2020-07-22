@@ -5,7 +5,7 @@ from queue import PriorityQueue
 
 #width of the pygame window
 WIDTH = 600
-ROWS = 40   #the grid will be ROWS * ROWS, change this for differnt size grid
+ROWS = 40   #the grid will be ROWS * ROWS, change this for different size grid
 
 WIN = pygame.display.set_mode((WIDTH,WIDTH))
 pygame.display.set_caption("A* algorithm")
