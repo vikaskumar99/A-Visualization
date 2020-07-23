@@ -2,6 +2,8 @@
 
 This project shows the visualization of shortest path finding algorithm A*.
 
+![A* Visualization demo](demo.gif)
+
 The only pre-requisite is Python version 3 be installed and pygame library to be installed.
 
 To run the project download the repo and from the downloaded directory, type this command:
